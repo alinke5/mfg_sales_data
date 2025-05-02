@@ -1,0 +1,47 @@
+locationid,city,state,country
+1,Shanghai,Shanghai,China
+2,London,England,United Kingdom
+3,Paris,Ile-de-France,France
+4,Tokyo,Tokyo,Japan
+5,New York,New York,USA
+6,Singapore,Singapore,Singapore
+7,Dubai,Dubai,UAE
+8,Los Angeles,California,USA
+9,Berlin,Berlin,Germany
+10,Mumbai,Maharashtra,India
+11,Sydney,New South Wales,Australia
+12,Toronto,Ontario,Canada
+13,Madrid,Madrid,Spain
+14,Rome,Lazio,Italy
+15,Seoul,Seoul,South Korea
+16,Istanbul,Istanbul,Turkey
+17,Moscow,Moscow,Russia
+18,Bangkok,Bangkok,Thailand
+19,Amsterdam,North Holland,Netherlands
+20,Vienna,Vienna,Austria
+21,Los Angeles,California,USA
+22,Chicago,Illinois,USA
+23,Detroit,Michigan,USA
+24,Traverse City,Michigan,USA
+25,Tampa,Florida,USA
+26,Miami,Florida,USA
+27,Dallas,Texas,USA
+28,Des Moines,Iowa,USA
+29,Austin,Texas,USA
+30,Salt Lake City,Utah,USA
+31,Cleveland,Ohio,USA
+32,Venice,Florida,USA
+33,Nashville,Tennessee,USA
+34,Elkhart,Indiana,USA
+35,Joliet,Illinois,USA
+36,Newark,New Jersey,USA
+37,New York City,New York,USA
+38,Arlington,Virginia,USA
+39,Charlotte,North Carolina,USA
+40,St. Louis,Missouri,USA
+41,Memphis,Tennessee,USA
+42,Philadelphia,Pennsylvania,USA
+43,Pittsburgh,Pennsylvania,USA
+44,Madison,Wisconsin,USA
+45,Portland,Maine,USA
+46,NULL,NULL,USA
